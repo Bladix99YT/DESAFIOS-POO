@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "codigo aula luizao/1.0.0": {
+        "runtime": {
+          "codigo aula luizao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "codigo aula luizao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

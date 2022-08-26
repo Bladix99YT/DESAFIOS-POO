@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\codigo aula luizao\bin\Debug\net6.0\codigo aula luizao.exe
+C:\Users\Aluno\Desktop\codigo aula luizao\bin\Debug\net6.0\codigo aula luizao.deps.json
+C:\Users\Aluno\Desktop\codigo aula luizao\bin\Debug\net6.0\codigo aula luizao.runtimeconfig.json
+C:\Users\Aluno\Desktop\codigo aula luizao\bin\Debug\net6.0\codigo aula luizao.dll
+C:\Users\Aluno\Desktop\codigo aula luizao\bin\Debug\net6.0\codigo aula luizao.pdb
+C:\Users\Aluno\Desktop\codigo aula luizao\obj\Debug\net6.0\codigo aula luizao.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\codigo aula luizao\obj\Debug\net6.0\codigo aula luizao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\codigo aula luizao\obj\Debug\net6.0\codigo aula luizao.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\codigo aula luizao\obj\Debug\net6.0\codigo aula luizao.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\codigo aula luizao\obj\Debug\net6.0\codigo aula luizao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\codigo aula luizao\obj\Debug\net6.0\codigo aula luizao.dll
+C:\Users\Aluno\Desktop\codigo aula luizao\obj\Debug\net6.0\refint\codigo aula luizao.dll
+C:\Users\Aluno\Desktop\codigo aula luizao\obj\Debug\net6.0\codigo aula luizao.pdb
+C:\Users\Aluno\Desktop\codigo aula luizao\obj\Debug\net6.0\codigo aula luizao.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\codigo aula luizao\obj\Debug\net6.0\ref\codigo aula luizao.dll
